@@ -119,7 +119,7 @@
 
 
 ## <b>"✨Some Projects✨"</b> 
-- **Tivo**:
+ **Tivo**:
 ![TivoApp](https://github.com/genarossi19/genarossi19/blob/main/TivoPresentacion.jpg)
 
 
