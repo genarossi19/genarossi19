@@ -6,7 +6,8 @@
 
 
 <br>
-<img src="/home/pct-04/Imágenes/banner.jpg" alt="Una imagen genial">
+<img src="https://github.com/genarossi19/genarossi19/blob/main/banner.jpg?raw=true">
+
 
 
 
@@ -89,9 +90,20 @@
 <br>
 
 <li>
-<a href="genaros.gr@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  genaros.gr@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:genaros.gr@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail:%20genaros.gr@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
 </a>
+
+</li>
+<br>
+<li>
+
+  <a href="https://discord.com/channels/poizone19">
+  <img src="https://img.shields.io/badge/Discord-%2300acee.svg?color=405DE6&style=for-the-badge&logo=discord&logoColor=white" alt="discord" style="margin-bottom: 5px;"/>
+</a>
+
+
+
 </li>
 	
 </ul>
@@ -117,6 +129,4 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
-Last Edited on: 09/11/2022
