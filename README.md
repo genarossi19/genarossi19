@@ -36,6 +36,7 @@
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   <img src="https://img.shields.io/badge/  Kotlin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=kotlin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+  ![Flutter](https://img.shields.io/badge/Flutter%20-%23A4D3EE.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
     
@@ -45,7 +46,7 @@
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Figma](https://img.shields.io/badge/figma-%234605F4.svg?style=for-the-badge&logo=figma&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   <img src="https://img.shields.io/badge/ AndroidStudio-%2300acee.svg?color=558B6E&style=for-the-badge&logo=androidstudio&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
