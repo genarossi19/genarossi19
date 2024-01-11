@@ -7,6 +7,7 @@
 
 <br>
 <img src="https://github.com/genarossi19/genarossi19/blob/main/banner.jpg?raw=true">
+<img src="https://github.com/genarossi19/genarossi19/blob/main/bannerReact.png?raw=true">
 
 
 
