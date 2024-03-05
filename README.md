@@ -127,7 +127,7 @@
 
 ## <b>✨Some Projects✨</b> 
  **Tivo**:
-![TivoApp](https://github.com/genarossi19/genarossi19/blob/main/TivoPresentacion.jpg)
+![TivoApp](https://github.com/genarossi19/genarossi19/blob/main/TivoPresentacion2.png)
 
 
 
